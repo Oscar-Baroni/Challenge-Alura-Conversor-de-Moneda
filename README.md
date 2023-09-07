@@ -20,6 +20,8 @@
 <br>
 </p>Como extra se nos pedía agregar una opción más de conversión al programa. Por lo que se agrego la instancia de conversión de temperatura, utilizando las escalas de grados <b>Celsius</b>, <b>Fahrenheit</b> y <b>Kelvin</b>.</p>
 
+<h1>Imagen Gif de muestra del Conversor en funcionamiento</h1>
+
 <div align="center"><img src="Video-Demo-del-Conversor.gif" alt="imagen demo del convertor"></div>
 
 <br>
